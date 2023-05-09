@@ -152,7 +152,7 @@ div.video {
     position: relative;
 }
 
-div.video > iframe {
+div.video > iframe {                                   /* classe video */
     position: absolute;
     top: 5%;
     left: 5%;
